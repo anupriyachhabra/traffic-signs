@@ -32,3 +32,5 @@ jupyter notebook Traffic_Signs_Recognition.ipynb
 ```
 3. Follow the instructions in the `Traffic_Signs_Recognition.ipynb` notebook.
 
+#### Reviewer's comments
+I have included the comments I got for this project from Udacity's reviewer [here](./ProjectReview.pdf)
